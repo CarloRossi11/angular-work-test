@@ -1,4 +1,5 @@
 # TestUno
+Testing gitHub connection with an Angular project on work cpu
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
